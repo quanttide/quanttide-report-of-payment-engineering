@@ -12,7 +12,7 @@
 
 ## 决策记录
 
-- [money-integer-cents.md](money-integer-cents.md) — 内部金额 int64（分）存储、API 元传输，`pkg/money.Cents` 零误差转换
+- [money-integer-cents.md](money-integer-cents.md) — 全链路整数分（内部+传输），go-money Money 值对象，零误差
 
 ## 命名约定
 
