@@ -12,8 +12,8 @@
 
 ## 决策记录
 
-- [payment-status-contract.md](payment-status-contract.md) — 支付状态统一契约与渠道码严格映射（未知码报错而非 UNKNOWN 兜底）
 - [idempotency-key-contract.md](idempotency-key-contract.md) — 幂等键契约（前缀隔离键空间、边界校验防污染）
+- （支付状态契约已归档至工具库 `quanttide-pay-toolkit/packages/go/docs/dev-guide/status.md`）
 - （金额决策已归档至工具库 `quanttide-pay-toolkit/packages/go/docs/dev-guide/money.md`）
 
 ## 命名约定
