@@ -12,8 +12,8 @@
 
 ## 决策记录
 
-- [money-integer-cents.md](money-integer-cents.md) — 全链路整数分（内部+传输），go-money Money 值对象，零误差
+（暂无——金额决策已归档至工具库 `quanttide-pay-toolkit/packages/go/docs/dev-guide/money.md`）
 
 ## 命名约定
 
-决策报告文件用英文命名（小写连字符），不带头日期，如 `money-integer-cents.md`。
+决策报告文件用英文命名（小写连字符），不带头日期，如 `money-value-object.md`。
