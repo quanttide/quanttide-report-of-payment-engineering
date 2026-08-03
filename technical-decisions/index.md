@@ -12,8 +12,8 @@
 
 ## 决策记录
 
-- [2026-08-03-金额整数分与零误差转换.md](2026-08-03-金额整数分与零误差转换.md) — 内部金额 int64（分）存储、API 元传输，`pkg/money.Cents` 零误差转换
+- [money-integer-cents.md](money-integer-cents.md) — 内部金额 int64（分）存储、API 元传输，`pkg/money.Cents` 零误差转换
 
 ## 命名约定
 
-决策报告文件建议按 `YYYY-MM-DD-简短主题.md` 命名，并按决策日期归档。
+决策报告文件用英文命名（小写连字符），不带头日期，如 `money-integer-cents.md`。
