@@ -4,15 +4,15 @@
 
 ## 概述
 
-本仓库用于维护量潮支付工程领域的报告信息，当前主要维护两类决策报告：
+本仓库用于维护量潮支付工程领域的报告信息，当前维护两类报告：
 
-- 产品决策：产品方向、功能范围、商业化等产品层面的决策记录
-- 技术决策：技术选型、架构、协议、数据模型等技术层面的决策记录
+- 决策报告：产品与技术层面的决策记录
+- 复盘报告：阶段交付、部署故障与经验教训的回顾
 
 ## 文档
 
-- [product-decisions/index.md](product-decisions/index.md) — 产品决策报告
-- [technical-decisions/index.md](technical-decisions/index.md) — 技术决策报告
+- [decisions/index.md](decisions/index.md) — 决策报告
+- [retrospectives/index.md](retrospectives/index.md) — 复盘报告
 
 ## 许可
 
